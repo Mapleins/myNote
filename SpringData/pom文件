@@ -4,6 +4,7 @@
   <groupId>cn.itcast.demo</groupId>
   <artifactId>SpringDataRedisDemo</artifactId>
   <version>0.0.1-SNAPSHOT</version>
+```
   
   
   <!-- 集中定义依赖版本号 -->
