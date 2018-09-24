@@ -5,6 +5,10 @@
   <artifactId>SpringDataRedisDemo</artifactId>
   <version>0.0.1-SNAPSHOT</version>
 ```
+
+```java
+System.out.println("helloGithub")
+```
   
   
   <!-- 集中定义依赖版本号 -->
